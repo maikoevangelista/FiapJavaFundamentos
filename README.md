@@ -35,7 +35,9 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 
 5 - AMBIENTE DE DESENVOLVIMENTO INTEGRADO
  
-6 - TIPOS DE DADOS E VARIÁVEIS (PT 01)                                                                                                                                                  
+6 - TIPOS DE DADOS E VARIÁVEIS (PT 01)
+                                                                                                                                                  
+7 - TIPOS DE DADOS E VARIÁVEIS (PT 02)                                                                                                                                                 
 ##
            Cap 3 - Classe, métodos, atributos      
 ##           
