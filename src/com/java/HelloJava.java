@@ -4,15 +4,19 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		
-		int idade = 10;
-		double preco = 10.5;
-		char sexo = 'M';
-		boolean temFilhos = true;
+		int x = 10;
+		double d = 10.5;
+		long l = x;
+		float f = x;
+		short s = 20;
+		x = s;
 		
-		System.out.println(idade);
-		System.out.println(preco);
-		System.out.println(sexo);
-		System.out.println(temFilhos);
+		
+		double valorDouble = 9.99;
+		int valorInt = (int) valorDouble;
+		System.out.println(valorInt);
+		
 	}
 
 }
+
